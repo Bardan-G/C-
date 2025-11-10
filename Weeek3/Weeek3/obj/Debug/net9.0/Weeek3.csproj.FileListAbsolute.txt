@@ -1,0 +1,15 @@
+/Users/birdangneupane/RiderProjects/Weeek3/Weeek3/bin/Debug/net9.0/Weeek3
+/Users/birdangneupane/RiderProjects/Weeek3/Weeek3/bin/Debug/net9.0/Weeek3.deps.json
+/Users/birdangneupane/RiderProjects/Weeek3/Weeek3/bin/Debug/net9.0/Weeek3.runtimeconfig.json
+/Users/birdangneupane/RiderProjects/Weeek3/Weeek3/bin/Debug/net9.0/Weeek3.dll
+/Users/birdangneupane/RiderProjects/Weeek3/Weeek3/bin/Debug/net9.0/Weeek3.pdb
+/Users/birdangneupane/RiderProjects/Weeek3/Weeek3/obj/Debug/net9.0/Weeek3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/birdangneupane/RiderProjects/Weeek3/Weeek3/obj/Debug/net9.0/Weeek3.AssemblyInfoInputs.cache
+/Users/birdangneupane/RiderProjects/Weeek3/Weeek3/obj/Debug/net9.0/Weeek3.AssemblyInfo.cs
+/Users/birdangneupane/RiderProjects/Weeek3/Weeek3/obj/Debug/net9.0/Weeek3.csproj.CoreCompileInputs.cache
+/Users/birdangneupane/RiderProjects/Weeek3/Weeek3/obj/Debug/net9.0/Weeek3.sourcelink.json
+/Users/birdangneupane/RiderProjects/Weeek3/Weeek3/obj/Debug/net9.0/Weeek3.dll
+/Users/birdangneupane/RiderProjects/Weeek3/Weeek3/obj/Debug/net9.0/refint/Weeek3.dll
+/Users/birdangneupane/RiderProjects/Weeek3/Weeek3/obj/Debug/net9.0/Weeek3.pdb
+/Users/birdangneupane/RiderProjects/Weeek3/Weeek3/obj/Debug/net9.0/Weeek3.genruntimeconfig.cache
+/Users/birdangneupane/RiderProjects/Weeek3/Weeek3/obj/Debug/net9.0/ref/Weeek3.dll
